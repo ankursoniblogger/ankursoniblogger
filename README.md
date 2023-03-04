@@ -1,18 +1,18 @@
-<h1 align="center"> Hi 👋 I'm Durgesh Soni</h1>
+<h1 align="center"> Hi 👋 I'm Ankur Soni</h1>
 
-I'm an Java Backend Developer at Nobroker. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
-An aspiring Java Backend Developer with 1000+ hours of coding experience in Java, and JavaScript. I am a highly passionate Backend developer who loves, creating APIs, and working with databases.
+I'm an aspiring full stack web developer. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
+An aspiring web Developer with 100+ hours of coding experience in JavaScript. I am a highly passionate web developer who loves, creating APIs.
 
-[![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
-[![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
-[![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08)
-[![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/durgeshsoni08/)
-[![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:hello@durgeshsoni.com)
+<!-- [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger) -->
+[![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/ankur.soni20)
+<!-- [![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08) -->
+[![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/ankur-soni-1a4a05259/)
+[![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:ankursoniblogger@gmail.com)
 
 
 
 <!-- ![durgeshsoni(1)](https://user-images.githubusercontent.com/81063456/160451605-6f30038e-683e-4e95-81d9-1f28c3a4d65a.png) -->
-![Github banner](https://user-images.githubusercontent.com/81063456/169705234-2c4d4e60-25de-493d-a5a0-de05512e4633.png)
+<!-- ![Github banner](https://user-images.githubusercontent.com/81063456/169705234-2c4d4e60-25de-493d-a5a0-de05512e4633.png) -->
 
 <h1 align="center"> Technology / Stack</h1>
 
