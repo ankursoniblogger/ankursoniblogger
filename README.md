@@ -5,9 +5,9 @@ An aspiring web Developer with 100+ hours of coding experience in JavaScript. I 
 
 <!-- [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger) -->
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/ankur.soni20)
-<!-- [![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08) -->
 [![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/ankur-soni-1a4a05259/)
 [![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:ankursoniblogger@gmail.com)
+<!-- [![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08) -->
 
 
 
@@ -32,47 +32,47 @@ An aspiring web Developer with 100+ hours of coding experience in JavaScript. I 
       <tbody>
        <tr>
             <td>1.</td>
-            <td>Online Payment Wallet Application</td>
-            <td>Java, Spring, Spring Boot, hibernate, MySql, Swagger</td>
-            <td><a href="https://github.com/durgeshsoni/Wallet-app" target="_blank">https://github.com/durgeshsoni/Wallet-app</a></td>
+            <td>Random Quotes Genrator</td>
+            <td>Html, Css & Js</td>
+            <td><a href="https://random-quotes-genrator1.netlify.app" target="_blank">https://random-quotes-genrator1.netlify.app</a></td>
         </tr>
          <tr>
             <td>2.</td>
-            <td>Zee5 Clone</td>
+            <td>English Dictionary</td>
             <td>HTML,CSS & JS</td>
-            <td><a href="https://zee5.durgeshsoni.com" target="_blank">https://zee5.durgeshsoni.com</a></td>
+            <td><a href="https://english-dictionary1.netlify.app" target="_blank">https://english-dictionary1.netlify.app</a></td>
         </tr>
         <tr>
             <td>3.</td>
-            <td>Youtube Clone</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://stoic-goldwasser-611d2c.netlify.app/" target="_blank">https://stoic-goldwasser-611d2c.netlify.app/</a></td>
+            <td>Social Media icon</td>
+            <td>HTML,CSS </td>
+            <td><a href="https://ankur-social-media-icon.netlify.app" target="_blank">https://ankur-social-media-icon.netlify.app</a></td>
         </tr>
            <tr>
             <td>4.</td>
-            <td>Google Clone</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://effortless-tartufo-137969.netlify.app/"  target="_blank">https://effortless-tartufo-137969.netlify.app/</a></td>
+            <td>Find a Doctor</td>
+            <td>HTML,CSS</td>
+            <td><a href="https://findoctorr.netlify.app"  target="_blank">https://findoctorr.netlify.app</a></td>
         </tr> 
          <tr>
             <td>5.</td>
-            <td>Masai School Clone</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://heuristic-galileo-2958c0.netlify.app"  target="_blank">https://heuristic-galileo-2958c0.netlify.app</a></td>
+            <td>Spiderman</td>
+            <td>HTML,CSS </td>
+            <td><a href="https://github.com/ankursoniblogger/Spiderman"  target="_blank">https://github.com/ankursoniblogger/Spiderman</a></td>
         </tr>
          <tr>
             <td>6.</td>
-            <td>Pinterest Clone</td>
+            <td>Netflix clone</td>
             <td>HTML,CSS </td>
-            <td><a href="https://elastic-murdock-9dbfea.netlify.app/"  target="_blank">https://elastic-murdock-9dbfea.netlify.app/</a></td>
+            <td><a href="netflix-clone09998.netlify.app"  target="_blank">netflix-clone09998.netlify.app</a></td>
         </tr>
         <tr>
             <td>7.</td>
-            <td>Food App</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://inspiring-gnome-8e6791.netlify.app"  target="_blank">https://inspiring-gnome-8e6791.netlify.app</a></td>
+            <td>Meshoo clone</td>
+            <td>HTML,CSS </td>
+            <td><a href="meesho-clone098.netlify.app"  target="_blank">meesho-clone098.netlify.app</a></td>
         </tr>
-        <tr>
+<!--         <tr>
         <td>8.</td>
         <td>Student Attendance Management System</td>
             <td>HTML,CSS & JS</td>
@@ -107,7 +107,7 @@ An aspiring web Developer with 100+ hours of coding experience in JavaScript. I 
             <td>Upgrad Clone</td>
             <td>HTML,CSS & JS</td>
             <td><a href="https://stupendous-alfajores-e52b1e.netlify.app"  target="_blank">https://stupendous-alfajores-e52b1e.netlify.app/</a></td>
-       </tr>
+       </tr> -->
     </tbody>  
 
 </table>
