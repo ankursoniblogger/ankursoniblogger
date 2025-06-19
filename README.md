@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋 I'm Ankur Soni</h1>
 
-I'm an aspiring full stack web developer. I describe myself as a passionate developer who loves coding, open-source, and the web platform.
-An aspiring web Developer with 100+ hours of coding experience in JavaScript. I am a highly passionate web developer who loves, creating APIs.
+Hi, I'm Ankur Soni — a passionate Full Stack Web Developer from India. I specialize in building responsive, user-friendly, and scalable web applications using technologies like React, Node.js, Express, and MongoDB. Currently, I'm pursuing a full-time web development course at Masai School, where I’ve gained hands-on experience in JavaScript, Data Structures & Algorithms, and real-world project building through collaborative hackathons. I love solving problems and continuously improving my skills. When I’m not coding, I enjoy exploring new tools, writing about my learning journey on LinkedIn, and helping others in the tech community.
 
 <!-- [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger) -->
 [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/ankur.soni20)
