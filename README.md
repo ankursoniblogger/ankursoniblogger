@@ -13,7 +13,7 @@ Hi, I'm Ankur Soni — a passionate Full Stack Web Developer from India. I speci
 <!-- ![durgeshsoni(1)](https://user-images.githubusercontent.com/81063456/160451605-6f30038e-683e-4e95-81d9-1f28c3a4d65a.png) -->
 <!-- ![Github banner](https://user-images.githubusercontent.com/81063456/169705234-2c4d4e60-25de-493d-a5a0-de05512e4633.png) -->
 
-<h1 align="center"> Technology / Stack</h1>
+<!--<h1 align="center"> Technology / Stack</h1> -->
 
 <!-- ![Languages   Tools](https://user-images.githubusercontent.com/81063456/160660787-f18d9a0d-cb92-4852-ac43-3247e5fd2a11.png) -->
 ![Teck Stack](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
